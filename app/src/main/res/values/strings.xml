@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="title">LIT</string>
+    <string name="fight">Fight</string>
+    <!--<string name="pokeball">Pokeball</string>-->
+    <!--<string name="pokeball">Blaziken</string>-->
+    <!--<string name="pokeball">Lucario</string>-->
+    <!--<string name="pokeball">MegaAlakazam</string>-->
+    <!--<string name="pokeball">MegaHoundoom</string>-->
+    <!--<string name="pokeball"></string>-->
+</resources>
